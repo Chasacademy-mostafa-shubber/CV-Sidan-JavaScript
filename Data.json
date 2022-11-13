@@ -1,0 +1,56 @@
+{
+
+  "Profile":[
+
+    {
+        "ProfileImg": "/Images/CV-image.jpg",
+        "Name": "Mostafa Shubber",
+        "Mobile": "073-7412971",
+        "Email": "m_shubber@hotmail.com",
+        "Address": "Tångvägen 5"
+    }
+  ],
+
+  "Workexperience":[
+
+    {
+        "Title": "Väktare",
+        "Date":"201005-pågående",
+        "Description": "Arbetar som utryckningsväktare. Som utryckningsväktare åker jag på inbrottslarm, sabotagelarm, överfallslarm och fastighetsärende. Ibland brukar jag även patrullera i skolor, fastigheter, företag och garage."
+
+    },
+
+    {
+       "Title":"SharePoint-utvecklare",
+       "Date":"201803-201805",
+       "Description":"Utvecklade en webbportal i Office 365/SharePoint. I portalen skapade jag tre olika dokumentbibliotek, en lista och en kalender. Ändrade behörigheten för användarna i dokumentbiblioteket och listan. Ett av dokumentbiblioteket kopplade jag med en SFTP Server för att möjliggöra för en extern användare att ladda upp filer i portalen och en Workflow för att filerna skall tas bort automatiskt efter några dagar. Skapade även PowerApps för att kunden skall kunna använda sin smartphone eller surfplatta." 
+    },
+   
+    {
+        "Title":"McDonalds",
+        "Date": "200404-2007",
+        "Description":"Arbetade mest i köket. I köket stekte jag hamburgare och dressade brödet. Ibland brukade jag även rengöra bordet, moppa golvet och plocka undan matbrickor."
+        
+    }
+    
+  ],
+
+  "Education":[
+
+
+    {
+        "School":"Chas Academy",
+        "Date": "2022-2024",
+        "Course": "Fullstackutvecklare.NET"
+    },
+
+    {
+        "School":"EC-Utbildning",
+        "Date": "2016-2018",
+        "Course": "SharePoint-utvecklare"
+    }
+
+  ]
+
+
+}
