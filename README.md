@@ -1,4 +1,4 @@
 ## Namn: Mostafa Shubber
 ## Utbildning: Fullstackutvecklare.NET
 
-[Länken till projektet i github](https://github.com/Chasacademy-mostafa-shubber/CV-Sidan-JavaScript)
+[Länken till Github page](https://chasacademy-mostafa-shubber.github.io/CV-Sidan-JavaScript/Index.html)
