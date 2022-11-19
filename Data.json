@@ -3,7 +3,7 @@
   "Profile":[
 
     {
-        "ProfileImg": "Images/CV-image.jpg",
+        "ProfileImg": "./Images/CV-image.jpg",
         "Name": "Mostafa Shubber",
         "Mobile": "073-7412971",
         "Email": "m_shubber@hotmail.com",
